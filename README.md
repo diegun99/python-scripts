@@ -7,7 +7,7 @@ Programa en Python para organizar automáticamente archivos médicos en carpetas
 - **📋 Extracción automática de datos**: Lee archivos con formato `TIPO-CEDULA-NOMBRE.extensión` y extrae la cédula y el nombre que están después del primer guion
 
 - **📂 Creación automática de carpetas**: Genera carpetas con el formato `CEDULA-NOMBRE`  
-  Ejemplo: `91226326-DIDIER MAURICIO ESPINEL SUAREZ`
+  Ejemplo: `454535-DIDIER MAURICIO ESPINEL SUAREZ`
 
 - **🚀 Movimiento de archivos**: Coloca cada archivo dentro de su carpeta correspondiente automáticamente
 
@@ -56,8 +56,8 @@ python organizador_archivos.py
 **Después:**
 ```
 📁 Mis Archivos
-├── 📁 91226326-DIDIER MAURICIO ESPINEL SUAREZ
-│   └── CUADRO HEMATICO-91226326-DIDIER MAURICIO ESPINEL SUAREZ.pdf
+├── 📁 34345344-DIDIER MAURICIO ESPINEL SUAREZ
+│   └── CUADRO HEMATICO-34345344-DIDIER MAURICIO ESPINEL SUAREZ.pdf
 ├── 📁 12345678-MARIA LOPEZ GARCIA
 │   └── RADIOGRAFIA-12345678-MARIA LOPEZ GARCIA.jpg
 └── 📁 87654321-JUAN PEREZ MARTINEZ
